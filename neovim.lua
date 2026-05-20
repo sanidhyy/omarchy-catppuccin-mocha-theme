@@ -17,6 +17,9 @@ return {
 				shade = "dark",
 				percentage = 0.15,
 			},
+			float = {
+				transparent = true,
+			},
 
 			integrations = {
 				cmp = true,
