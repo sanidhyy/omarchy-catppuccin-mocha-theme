@@ -1,28 +1,10 @@
-@define-color background-color #1e1e2e;
-@define-color border-color #cba6f7;
-@define-color label #cdd6f4;
-@define-color image #cdd6f4;
-@define-color progress #89b4fa;
+/* =============================================
+ * swayosd.css - Catppuccin Mocha
+ * =============================================
+ */
 
-/* Cancel out Omarchy settings */
-window:not(:backdrop),
-window:backdrop {
-    border: none;
-    border-width: 0;
-    border-radius: 10px;
-    background-color: transparent;
-    box-shadow: none;
-    padding: 12px;
-}
-
-
-/* Draw a new background */
-window:not(:backdrop) #container,
-window:backdrop #container {
-    border: 1.5px solid alpha(@border-color, 0.50);
-    border-radius: 10px;
-    background-color: alpha(@background-color, 0.92);
-    padding: 12px;
-    background-clip: padding-box;
-    box-shadow: 0 8px 18px 0 rgba(0, 0, 0, 0.56);
-}
+@define-color background-color #24273a;
+@define-color border-color #c6d0f5;
+@define-color label #cad3f5;
+@define-color image #cad3f5;
+@define-color progress #cad3f5;
