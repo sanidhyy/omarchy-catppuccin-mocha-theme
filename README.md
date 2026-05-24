@@ -1,8 +1,8 @@
 # :smiley_cat: Catppuccin Mocha Theme for Omarchy
 
-A refined, darker Catppuccin Mocha theme for [Omarchy](https://omarchy.org), with deeper backgrounds and vibrant accents.
+A refined, darker Catppuccin Mocha theme for [Omarchy](https://omarchy.org "Omarchy by DHH"), with deeper backgrounds and vibrant accents.
 
-![Theme Preview](./preview.png "Theme Preview")
+![Catppuccin Mocha Theme Preview](./preview.png "Catppuccin Mocha Theme Preview")
 
 ## :rocket: Installation
 
