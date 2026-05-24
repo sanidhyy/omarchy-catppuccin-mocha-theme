@@ -2,7 +2,7 @@
 
 A refined, darker Catppuccin Mocha theme for [Omarchy](https://omarchy.org), with deeper backgrounds and vibrant accents.
 
-![Theme Preview](./preview.png)
+![Theme Preview](./preview.png "Theme Preview")
 
 ## :rocket: Installation
 
@@ -10,16 +10,15 @@ A refined, darker Catppuccin Mocha theme for [Omarchy](https://omarchy.org), wit
 omarchy theme install https://github.com/sanidhyy/omarchy-catppuccin-mocha-theme.git
 ```
 
-Or use the menu:  
-**Menu → Install → Style → Theme** → paste the repo URL.
+Or use the menu: **Menu → Install → Style → Theme** → paste the repo URL.
 
 ## :camera: Preview
 
-![Fastfetch • LazyVim • Cliamp • Cava](./.github/images/img1.png)
+![Fastfetch • LazyVim • Cliamp • Cava](./.github/images/img1.png "Fastfetch • LazyVim • Cliamp • Cava")
 
-![VSCode • Chromium • Walker • SwayOSD • Mako](./.github/images/img2.png)
+![VSCode • Chromium • Walker • SwayOSD • Mako](./.github/images/img2.png "VSCode • Chromium • Walker • SwayOSD • Mako")
 
-![Unlock](./preview-unlock.png)
+![Unlock Preview](./preview-unlock.png "Unlock Preview")
 
 ## :gear: Update / Remove
 
@@ -30,11 +29,11 @@ omarchy theme remove catppuccin-mocha # or Menu → Remove → Theme
 
 ## :sparkles: Credits
 
-- [DHH](https://x.com/dhh) & the Omarchy team for the excellent project.
-- [Catppuccin](https://github.com/catppuccin) community for the beautiful palette and ecosystem.
+- [DHH](https://x.com/dhh "David Heinemeier Hansson") & the Omarchy team for the excellent project.
+- [Catppuccin](https://github.com/catppuccin "Catppuccin Mocha") community for the beautiful palette and ecosystem.
 
 ## :page_with_curl: License and Third-Party Notes
 
 - This repository contains original modifications and adapted configurations from upstream projects.
 - All third-party assets (palettes, tools, wallpapers) retain their original licenses and copyrights.
-- If you are the creator of any wallpaper in the `backgrounds/` folder and would like it removed or credited, please [contact me](https://sanidhyy.name/#contact).
+- If you are the creator of any wallpaper in the `backgrounds/` folder and would like it removed or credited, please [Contact me](https://sanidhyy.name/#contact "Contact me at my email or through this form.").
