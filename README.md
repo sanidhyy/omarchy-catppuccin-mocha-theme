@@ -12,6 +12,16 @@ omarchy theme install https://github.com/sanidhyy/omarchy-catppuccin-mocha-theme
 
 Or use the menu: **Menu → Install → Style → Theme** → paste the repo URL.
 
+### :lock: Unlock theme (Plymouth)
+
+After installing the theme, you can also apply the matching unlock theme:
+
+```bash
+omarchy plymouth set by theme catppuccin-mocha
+```
+
+Or use the menu: **Menu → Style → Unlock**.
+
 ## :camera: Preview
 
 ![Fastfetch • LazyVim • Cliamp • Cava](./.github/images/img1.png "Fastfetch • LazyVim • Cliamp • Cava")
