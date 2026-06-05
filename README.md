@@ -47,3 +47,7 @@ omarchy theme remove catppuccin-mocha # or Menu → Remove → Theme
 - This repository contains original modifications and adapted configurations from upstream projects.
 - All third-party assets (palettes, tools, wallpapers) retain their original licenses and copyrights.
 - If you are the creator of any wallpaper in the `backgrounds/` folder and would like it removed or credited, please [Contact me](https://sanidhyy.name/#contact "Contact me at my email or through this form.").
+
+## :house: Dotfiles
+
+I use this theme in my dotfiles, you can find them [here](https://github.com/sanidhyy/dotfiles "My dotfiles").
