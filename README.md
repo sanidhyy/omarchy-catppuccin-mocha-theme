@@ -1,6 +1,6 @@
 # :smiley_cat: Catppuccin Mocha Theme for Omarchy
 
-A refined, darker Catppuccin Mocha theme for [Omarchy](https://omarchy.org "Omarchy by DHH"), with deeper backgrounds and vibrant accents.
+A refined, darker Catppuccin Mocha theme for [Omarchy Quattro](https://omarchy.org "Omarchy by DHH"), with deeper backgrounds and vibrant accents.
 
 ![Catppuccin Mocha Theme Preview](./preview.png "Catppuccin Mocha Theme Preview")
 
@@ -39,12 +39,11 @@ omarchy theme remove catppuccin-mocha # or Menu → Remove → Theme
 
 ## :sparkles: Credits
 
-- [DHH](https://x.com/dhh "David Heinemeier Hansson") & the Omarchy team for the excellent project.
+- [DHH](https://x.com/dhh "David Heinemeier Hansson") & [Omarchy Team](https://omarchy.org/teams "Omarchy Teams") for the excellent project.
 - [Catppuccin](https://github.com/catppuccin "Catppuccin Mocha") community for the beautiful palette and ecosystem.
 
 ## :page_with_curl: License and Third-Party Notes
 
-- This repository contains original modifications and adapted configurations from upstream projects.
 - All third-party assets (palettes, tools, wallpapers) retain their original licenses and copyrights.
 - If you are the creator of any wallpaper in the `backgrounds/` folder and would like it removed or credited, please [Contact me](https://sanidhyy.name/#contact "Contact me at my email or through this form.").
 
