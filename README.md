@@ -24,9 +24,9 @@ Or use the menu: **Menu → Appearance → Unlock**.
 
 ## :camera: Preview
 
-![Fastfetch • LazyVim • Cliamp • Cava](./.github/images/img1.png "Fastfetch • LazyVim • Cliamp • Cava")
+![Fastfetch • Lazyvim • Cliamp • Cava](./.github/images/preview1.png "Fastfetch • Lazyvim • Cliamp • Cava")
 
-![VSCode • Chromium • Walker • SwayOSD • Mako](./.github/images/img2.png "VSCode • Chromium • Walker • SwayOSD • Mako")
+![Quickshell · VSCode · Foot · Brave](./.github/images/preview2.png "Quickshell · VSCode · Foot · Brave")
 
 ![Unlock Preview](./preview-unlock.png "Unlock Preview")
 
