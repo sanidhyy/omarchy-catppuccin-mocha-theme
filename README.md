@@ -20,7 +20,7 @@ After installing the theme, you can also apply the matching unlock theme:
 omarchy plymouth set by theme catppuccin-mocha
 ```
 
-Or use the menu: **Menu → Style → Unlock**.
+Or use the menu: **Menu → Appearance → Unlock**.
 
 ## :camera: Preview
 
